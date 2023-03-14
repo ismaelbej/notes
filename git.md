@@ -1,6 +1,5 @@
 ## Signing git commits with an SSH key
 
-
 * [GPG + Git SSH Authentication and Signing on Windows 10](https://gist.github.com/SuperMarioSF/1264b6965696abe9288243476b92c751)
 * [Setting up git+ssh+gpg on Windows](https://dev.to/qm3ster/setting-up-gitsshgpg-on-windows-5c85)
 * [Git Bash and Pageant are not using keys](https://stackoverflow.com/questions/35110079/git-bash-and-pageant-are-not-using-keys)
@@ -19,7 +18,3 @@
 * [Telling Git about your signing key](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key#telling-git-about-your-ssh-key)
 * [Why does signing commit with SSH key fail with "invalid format?" and "failed to write commit object"?](https://stackoverflow.com/questions/73644598/why-does-signing-commit-with-ssh-key-fail-with-invalid-format-and-failed-to)
 * [Git with SSH on Windows](https://stackoverflow.com/questions/2499331/git-with-ssh-on-windows)
-
-## Powershell
-
-* [about_Environment_Variables](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_environment_variables?view=powershell-7.3)
