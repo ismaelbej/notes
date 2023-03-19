@@ -18,3 +18,6 @@
 * [Telling Git about your signing key](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key#telling-git-about-your-ssh-key)
 * [Why does signing commit with SSH key fail with "invalid format?" and "failed to write commit object"?](https://stackoverflow.com/questions/73644598/why-does-signing-commit-with-ssh-key-fail-with-invalid-format-and-failed-to)
 * [Git with SSH on Windows](https://stackoverflow.com/questions/2499331/git-with-ssh-on-windows)
+* [How do I sign git commits using my existing ssh key](https://stackoverflow.com/questions/72844616/how-do-i-sign-git-commits-using-my-existing-ssh-key)
+* [Why does git sign with GPG keys rather than using SSH keys?](https://stackoverflow.com/questions/45119932/why-does-git-sign-with-gpg-keys-rather-than-using-ssh-keys)
+* [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)

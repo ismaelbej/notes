@@ -6,3 +6,5 @@
 * [Setup rtx with direnv for Python](https://gabnotes.org/setup-rtx-with-direnv-for-python/)
 * [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 * [pyenv for Windows](https://pyenv-win.github.io/pyenv-win/)
+* [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+* [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
