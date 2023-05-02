@@ -8,3 +8,7 @@
 * [pyenv for Windows](https://pyenv-win.github.io/pyenv-win/)
 * [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
 * [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
+* [Starting with pyenv & poetry for Python development](https://medium.com/@sri_40116/starting-with-pyenv-poetry-for-python-development-9180720bbed5)
+* [Setting up Python Projects with Pyenv & Poetry](https://moderndataengineering.substack.com/p/setting-up-python-projects-with-pyenv)
+* [Poetry Introduction](https://python-poetry.org/docs/)
+* [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv)
