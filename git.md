@@ -21,3 +21,8 @@
 * [How do I sign git commits using my existing ssh key](https://stackoverflow.com/questions/72844616/how-do-i-sign-git-commits-using-my-existing-ssh-key)
 * [Why does git sign with GPG keys rather than using SSH keys?](https://stackoverflow.com/questions/45119932/why-does-git-sign-with-gpg-keys-rather-than-using-ssh-keys)
 * [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
+
+## Configuration
+
+* [Configuring Git to handle line endings](https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings)
+
