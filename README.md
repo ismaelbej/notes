@@ -7,6 +7,7 @@
 ## Math
 
 * [Math](./math.md)
+* [Crypto(graphy)](./crypto.md)
 
 ## Programming
 
