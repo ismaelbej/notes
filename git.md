@@ -25,6 +25,7 @@
 * [Managing Multiple SSH Keys on Windows with KeePassXC and OpenSSH](https://blog.cake.sh/2021/12/managing-multiple-ssh-keys-on-windows-with-keepassxc-and-openssh/)
 * [Setting up SSH and Git on Windows 10](https://dev.to/bdbch/setting-up-ssh-and-git-on-windows-10-2khk)
 * [Git with SSH on Windows](https://stackoverflow.com/questions/2499331/git-with-ssh-on-windows)
+* [How to use SSH with Git and ssh-agent on Windows](https://www.darraghoriordan.com/2022/09/24/git-ssh-agent-windows)
 
 ## Configuration
 
